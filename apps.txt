@@ -1,1 +1,2 @@
 added games inside apps
+added movies inside apps
